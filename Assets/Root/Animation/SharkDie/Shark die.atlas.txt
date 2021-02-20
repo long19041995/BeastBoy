@@ -1,0 +1,41 @@
+
+Shark die.png
+size: 828,828
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 16 copy 5
+  rotate: false
+  xy: 420, 10
+  size: 336, 211
+  orig: 336, 211
+  offset: 0, 0
+  index: -1
+Group 16 copy 6
+  rotate: true
+  xy: 2, 2
+  size: 219, 416
+  orig: 219, 416
+  offset: 0, 0
+  index: -1
+Group 16 copy 8
+  rotate: false
+  xy: 603, 605
+  size: 189, 220
+  orig: 189, 220
+  offset: 0, 0
+  index: -1
+Group 16 copy 9
+  rotate: false
+  xy: 603, 389
+  size: 171, 214
+  orig: 171, 214
+  offset: 0, 0
+  index: -1
+Layer 0
+  rotate: false
+  xy: 2, 223
+  size: 599, 602
+  orig: 599, 602
+  offset: 0, 0
+  index: -1

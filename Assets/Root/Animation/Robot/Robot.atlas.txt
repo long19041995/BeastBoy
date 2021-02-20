@@ -1,0 +1,83 @@
+
+Robot.png
+size: 456,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 17
+  rotate: true
+  xy: 396, 191
+  size: 86, 43
+  orig: 86, 43
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 2, 58
+  size: 192, 157
+  orig: 192, 157
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 2, 217
+  size: 201, 234
+  orig: 201, 234
+  offset: 0, 0
+  index: -1
+Layer 20 copy
+  rotate: false
+  xy: 326, 279
+  size: 99, 172
+  orig: 99, 172
+  offset: 0, 0
+  index: -1
+Layer 20 copy 2
+  rotate: false
+  xy: 205, 287
+  size: 119, 164
+  orig: 119, 164
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 302, 129
+  size: 92, 148
+  orig: 92, 148
+  offset: 0, 0
+  index: -1
+Layer 21 copy
+  rotate: true
+  xy: 268, 35
+  size: 92, 148
+  orig: 92, 148
+  offset: 0, 0
+  index: -1
+Layer 22 copy
+  rotate: false
+  xy: 196, 5
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+Layer 22 copy 2
+  rotate: false
+  xy: 196, 5
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+Layer 23 copy 2
+  rotate: false
+  xy: 205, 145
+  size: 95, 140
+  orig: 95, 140
+  offset: 0, 0
+  index: -1
+Layer 31
+  rotate: false
+  xy: 2, 2
+  size: 113, 54
+  orig: 113, 54
+  offset: 0, 0
+  index: -1

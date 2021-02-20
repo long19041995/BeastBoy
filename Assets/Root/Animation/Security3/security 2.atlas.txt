@@ -1,0 +1,139 @@
+
+security 2.png
+size: 484,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 13
+  rotate: false
+  xy: 406, 156
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Group 14
+  rotate: false
+  xy: 154, 29
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+Group 15
+  rotate: false
+  xy: 336, 400
+  size: 133, 81
+  orig: 133, 81
+  offset: 0, 0
+  index: -1
+Group 16
+  rotate: true
+  xy: 2, 2
+  size: 56, 96
+  orig: 56, 96
+  offset: 0, 0
+  index: -1
+Group 17
+  rotate: false
+  xy: 351, 157
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Group 18
+  rotate: false
+  xy: 224, 136
+  size: 63, 136
+  orig: 63, 136
+  offset: 0, 0
+  index: -1
+Group 19
+  rotate: false
+  xy: 2, 60
+  size: 150, 212
+  orig: 150, 212
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: false
+  xy: 2, 274
+  size: 308, 101
+  orig: 308, 101
+  offset: 0, 0
+  index: -1
+Layer 83
+  rotate: false
+  xy: 154, 127
+  size: 68, 145
+  orig: 68, 145
+  offset: 0, 0
+  index: -1
+Layer 84
+  rotate: false
+  xy: 242, 2
+  size: 61, 132
+  orig: 61, 132
+  offset: 0, 0
+  index: -1
+Layer 84 copy
+  rotate: false
+  xy: 289, 138
+  size: 60, 134
+  orig: 60, 134
+  offset: 0, 0
+  index: -1
+Layer 85
+  rotate: true
+  xy: 439, 255
+  size: 79, 31
+  orig: 79, 31
+  offset: 0, 0
+  index: -1
+Layer 85 copy
+  rotate: false
+  xy: 351, 210
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+Layer 86
+  rotate: true
+  xy: 336, 336
+  size: 62, 134
+  orig: 62, 134
+  offset: 0, 0
+  index: -1
+Layer 87
+  rotate: false
+  xy: 2, 377
+  size: 332, 104
+  orig: 332, 104
+  offset: 0, 0
+  index: -1
+Layer 88
+  rotate: true
+  xy: 305, 25
+  size: 111, 65
+  orig: 111, 65
+  offset: 0, 0
+  index: -1
+copy
+  rotate: false
+  xy: 351, 246
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+motion
+  rotate: false
+  xy: 100, 14
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+motion2
+  rotate: true
+  xy: 312, 347
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1

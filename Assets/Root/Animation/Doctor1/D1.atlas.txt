@@ -1,0 +1,132 @@
+
+D1.png
+size: 328,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1
+  rotate: true
+  xy: 178, 207
+  size: 33, 109
+  orig: 33, 109
+  offset: 0, 0
+  index: -1
+Group 2
+  rotate: true
+  xy: 267, 150
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+Group 3
+  rotate: false
+  xy: 2, 81
+  size: 83, 126
+  orig: 83, 126
+  offset: 0, 0
+  index: -1
+Group 5
+  rotate: false
+  xy: 87, 118
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 256, 49
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: true
+  xy: 172, 59
+  size: 45, 82
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 304, 285
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 287, 110
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 88, 2
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+Layer 8 copy
+  rotate: true
+  xy: 172, 30
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: true
+  xy: 2, 15
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+Layer 9 copy
+  rotate: true
+  xy: 176, 144
+  size: 61, 89
+  orig: 61, 89
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 153, 3
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+imagesMachine/Layer 13
+  rotate: false
+  xy: 87, 84
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+imagesMachine/Layer 14
+  rotate: true
+  xy: 88, 33
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+imagesMachine/Layer 15
+  rotate: true
+  xy: 176, 106
+  size: 36, 109
+  orig: 36, 109
+  offset: 0, 0
+  index: -1
+imagesMachine/Layer 16
+  rotate: true
+  xy: 178, 242
+  size: 83, 124
+  orig: 83, 124
+  offset: 0, 0
+  index: -1
+lightt
+  rotate: false
+  xy: 2, 209
+  size: 174, 116
+  orig: 174, 116
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+Dino3.png
+size: 780,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 17
+  rotate: true
+  xy: 385, 536
+  size: 242, 286
+  orig: 242, 286
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 673, 607
+  size: 93, 87
+  orig: 93, 87
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 673, 696
+  size: 105, 82
+  orig: 105, 82
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 2, 579
+  size: 381, 199
+  orig: 381, 199
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 2, 346
+  size: 290, 231
+  orig: 290, 231
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: false
+  xy: 294, 479
+  size: 74, 98
+  orig: 74, 98
+  offset: 0, 0
+  index: -1
+Layer 22 copy
+  rotate: false
+  xy: 294, 384
+  size: 71, 93
+  orig: 71, 93
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 673, 526
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+Layer 23 copy
+  rotate: true
+  xy: 650, 443
+  size: 81, 85
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 370, 349
+  size: 278, 185
+  orig: 278, 185
+  offset: 0, 0
+  index: -1

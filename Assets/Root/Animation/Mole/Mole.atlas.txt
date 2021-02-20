@@ -1,0 +1,62 @@
+
+Mole.png
+size: 392,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: true
+  xy: 222, 4
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+Layer 16 copy
+  rotate: true
+  xy: 222, 4
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 165, 43
+  size: 121, 62
+  orig: 121, 62
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 165, 2
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 2, 107
+  size: 226, 283
+  orig: 226, 283
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 230, 235
+  size: 115, 155
+  orig: 115, 155
+  offset: 0, 0
+  index: -1
+Layer 20 copy
+  rotate: true
+  xy: 2, 5
+  size: 100, 161
+  orig: 100, 161
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: true
+  xy: 230, 120
+  size: 113, 127
+  orig: 113, 127
+  offset: 0, 0
+  index: -1

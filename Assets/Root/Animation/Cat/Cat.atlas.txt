@@ -1,0 +1,83 @@
+
+Cat.png
+size: 968,968
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 10
+  rotate: false
+  xy: 2, 17
+  size: 499, 374
+  orig: 499, 374
+  offset: 0, 0
+  index: -1
+Group 11
+  rotate: false
+  xy: 578, 511
+  size: 203, 454
+  orig: 203, 454
+  offset: 0, 0
+  index: -1
+Layer 256
+  rotate: false
+  xy: 783, 532
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Layer 257
+  rotate: false
+  xy: 764, 149
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+Layer 258
+  rotate: false
+  xy: 783, 586
+  size: 94, 119
+  orig: 94, 119
+  offset: 0, 0
+  index: -1
+Layer 70
+  rotate: false
+  xy: 2, 393
+  size: 574, 572
+  orig: 574, 572
+  offset: 0, 0
+  index: -1
+Layer 71
+  rotate: false
+  xy: 503, 17
+  size: 259, 374
+  orig: 259, 374
+  offset: 0, 0
+  index: -1
+Layer 74_1
+  rotate: true
+  xy: 578, 411
+  size: 98, 195
+  orig: 98, 195
+  offset: 0, 0
+  index: -1
+Layer 75_1
+  rotate: false
+  xy: 783, 784
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1
+Layer 76
+  rotate: false
+  xy: 764, 204
+  size: 201, 205
+  orig: 201, 205
+  offset: 0, 0
+  index: -1
+Layer 77
+  rotate: false
+  xy: 783, 707
+  size: 169, 75
+  orig: 169, 75
+  offset: 0, 0
+  index: -1

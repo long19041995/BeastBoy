@@ -1,0 +1,48 @@
+
+spider.png
+size: 492,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 482
+  size: 382, 7
+  orig: 382, 7
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 265, 162
+  size: 214, 216
+  orig: 214, 216
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: true
+  xy: 265, 401
+  size: 79, 94
+  orig: 79, 94
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: true
+  xy: 2, 140
+  size: 340, 261
+  orig: 340, 261
+  offset: 0, 0
+  index: -1
+Layer 17 copy
+  rotate: true
+  xy: 265, 79
+  size: 81, 158
+  orig: 81, 158
+  offset: 0, 0
+  index: -1
+Layer 18 copy
+  rotate: false
+  xy: 386, 380
+  size: 103, 109
+  orig: 103, 109
+  offset: 0, 0
+  index: -1

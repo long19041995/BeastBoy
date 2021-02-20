@@ -1,0 +1,13 @@
+
+cloud.png
+size: 468,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 19
+  rotate: false
+  xy: 2, 191
+  size: 463, 274
+  orig: 463, 274
+  offset: 0, 0
+  index: -1

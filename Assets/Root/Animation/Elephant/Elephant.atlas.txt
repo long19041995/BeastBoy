@@ -1,0 +1,118 @@
+
+Elephant.png
+size: 492,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daythung1
+  rotate: false
+  xy: 2, 9
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+daythung1 - Copy
+  rotate: false
+  xy: 397, 105
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+daythung2
+  rotate: false
+  xy: 406, 297
+  size: 17, 193
+  orig: 17, 193
+  offset: 0, 0
+  index: -1
+daythung2 - Copy
+  rotate: true
+  xy: 248, 294
+  size: 9, 128
+  orig: 9, 128
+  offset: 0, 0
+  index: -1
+imagesEL/Cut-Character (1) copy
+  rotate: true
+  xy: 2, 35
+  size: 248, 178
+  orig: 248, 178
+  offset: 0, 0
+  index: -1
+imagesEL/Layer 741
+  rotate: false
+  xy: 2, 285
+  size: 244, 205
+  orig: 244, 205
+  offset: 0, 0
+  index: -1
+imagesEL/Layer 742
+  rotate: true
+  xy: 425, 327
+  size: 108, 55
+  orig: 108, 55
+  offset: 0, 0
+  index: -1
+imagesEL/Layer 744
+  rotate: false
+  xy: 425, 437
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+imagesEL/Layer 745
+  rotate: true
+  xy: 182, 47
+  size: 236, 62
+  orig: 236, 62
+  offset: 0, 0
+  index: -1
+imagesEL/Layer 746 copy
+  rotate: false
+  xy: 397, 197
+  size: 74, 98
+  orig: 74, 98
+  offset: 0, 0
+  index: -1
+imagesEL/Layer 747 copy
+  rotate: false
+  xy: 397, 131
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+imagesEL/Layer 748 copy
+  rotate: true
+  xy: 246, 16
+  size: 78, 119
+  orig: 78, 119
+  offset: 0, 0
+  index: -1
+imagesEL/Layer 749 copy
+  rotate: false
+  xy: 367, 14
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+imagesEL/eye1
+  rotate: true
+  xy: 248, 285
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+imagesEL/tree
+  rotate: false
+  xy: 248, 305
+  size: 156, 185
+  orig: 156, 185
+  offset: 0, 0
+  index: -1
+imagesEL/tree1
+  rotate: true
+  xy: 246, 96
+  size: 187, 149
+  orig: 187, 149
+  offset: 0, 0
+  index: -1

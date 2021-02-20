@@ -1,0 +1,104 @@
+
+D2.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 7
+  rotate: false
+  xy: 2, 148
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 126, 195
+  size: 146, 103
+  orig: 146, 103
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: true
+  xy: 273, 75
+  size: 62, 17
+  orig: 62, 17
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: true
+  xy: 274, 242
+  size: 56, 24
+  orig: 56, 24
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: true
+  xy: 217, 139
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: false
+  xy: 2, 40
+  size: 50, 106
+  orig: 50, 106
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: true
+  xy: 54, 11
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+Layer 26
+  rotate: false
+  xy: 54, 60
+  size: 68, 86
+  orig: 68, 86
+  offset: 0, 0
+  index: -1
+Layer 27
+  rotate: false
+  xy: 126, 140
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+Layer 29
+  rotate: false
+  xy: 187, 18
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+Layer 29 copy
+  rotate: false
+  xy: 132, 18
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Layer 31
+  rotate: false
+  xy: 124, 71
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+Layer 31 copy
+  rotate: false
+  xy: 198, 71
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 20
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1

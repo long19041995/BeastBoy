@@ -1,0 +1,27 @@
+
+dolphin.png
+size: 740,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: true
+  xy: 81, 8
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+fish
+  rotate: false
+  xy: 2, 33
+  size: 493, 704
+  orig: 493, 704
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 2
+  size: 77, 29
+  orig: 77, 29
+  offset: 0, 0
+  index: -1

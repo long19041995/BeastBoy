@@ -1,0 +1,76 @@
+
+god.png
+size: 472,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 63
+  size: 167, 249
+  orig: 167, 249
+  offset: 0, 0
+  index: -1
+Cloud
+  rotate: false
+  xy: 2, 314
+  size: 290, 154
+  orig: 290, 154
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 234, 17
+  size: 85, 141
+  orig: 85, 141
+  offset: 0, 0
+  index: -1
+Layer 141
+  rotate: false
+  xy: 2, 23
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+Layer 251
+  rotate: false
+  xy: 321, 69
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+Layer 28
+  rotate: false
+  xy: 294, 348
+  size: 142, 120
+  orig: 142, 120
+  offset: 0, 0
+  index: -1
+Layer 31
+  rotate: true
+  xy: 234, 160
+  size: 152, 93
+  orig: 152, 93
+  offset: 0, 0
+  index: -1
+Layer 32
+  rotate: true
+  xy: 329, 153
+  size: 88, 105
+  orig: 88, 105
+  offset: 0, 0
+  index: -1
+Layer 33
+  rotate: false
+  xy: 329, 243
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+gay
+  rotate: false
+  xy: 171, 2
+  size: 61, 310
+  orig: 61, 310
+  offset: 0, 0
+  index: -1

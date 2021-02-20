@@ -1,0 +1,55 @@
+
+Bird.png
+size: 260,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 735
+  rotate: true
+  xy: 182, 22
+  size: 146, 67
+  orig: 146, 67
+  offset: 0, 0
+  index: -1
+Layer 735 copy
+  rotate: false
+  xy: 2, 41
+  size: 123, 91
+  orig: 123, 91
+  offset: 0, 0
+  index: -1
+Layer 736
+  rotate: false
+  xy: 2, 134
+  size: 178, 121
+  orig: 178, 121
+  offset: 0, 0
+  index: -1
+Layer 737
+  rotate: true
+  xy: 182, 170
+  size: 85, 73
+  orig: 85, 73
+  offset: 0, 0
+  index: -1
+Layer 738
+  rotate: true
+  xy: 127, 83
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+Layer 738 copy
+  rotate: true
+  xy: 127, 32
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 2, 22
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1

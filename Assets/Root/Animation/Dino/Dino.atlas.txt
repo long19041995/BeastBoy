@@ -1,0 +1,55 @@
+
+Dino.png
+size: 1820,1820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 720
+  rotate: false
+  xy: 2, 2
+  size: 484, 757
+  orig: 484, 757
+  offset: 0, 0
+  index: -1
+Layer 720 copy
+  rotate: false
+  xy: 1268, 1089
+  size: 444, 726
+  orig: 444, 726
+  offset: 0, 0
+  index: -1
+Layer 721
+  rotate: false
+  xy: 488, 293
+  size: 798, 424
+  orig: 798, 424
+  offset: 0, 0
+  index: -1
+Layer 721 copy
+  rotate: true
+  xy: 1288, 334
+  size: 753, 400
+  orig: 753, 400
+  offset: 0, 0
+  index: -1
+Layer 853
+  rotate: false
+  xy: 2, 761
+  size: 702, 608
+  orig: 702, 608
+  offset: 0, 0
+  index: -1
+Layer 853 copy
+  rotate: true
+  xy: 706, 719
+  size: 650, 552
+  orig: 650, 552
+  offset: 0, 0
+  index: -1
+Layer 855
+  rotate: false
+  xy: 2, 1371
+  size: 1264, 444
+  orig: 1264, 444
+  offset: 0, 0
+  index: -1

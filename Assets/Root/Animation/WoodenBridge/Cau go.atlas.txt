@@ -1,0 +1,13 @@
+
+Cau go.png
+size: 964,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 14
+  rotate: false
+  xy: 2, 653
+  size: 960, 309
+  orig: 960, 309
+  offset: 0, 0
+  index: -1

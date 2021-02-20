@@ -1,0 +1,104 @@
+
+Kangaroo.png
+size: 464,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 255
+  rotate: true
+  xy: 365, 153
+  size: 157, 95
+  orig: 157, 95
+  offset: 0, 0
+  index: -1
+Layer 710
+  rotate: false
+  xy: 149, 311
+  size: 191, 149
+  orig: 191, 149
+  offset: 0, 0
+  index: -1
+Layer 711
+  rotate: false
+  xy: 387, 321
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+Layer 712
+  rotate: false
+  xy: 2, 171
+  size: 145, 289
+  orig: 145, 289
+  offset: 0, 0
+  index: -1
+Layer 713
+  rotate: false
+  xy: 381, 398
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+Layer 713 copy
+  rotate: true
+  xy: 381, 357
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+Layer 714
+  rotate: true
+  xy: 188, 244
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+Layer 714 copy
+  rotate: true
+  xy: 188, 179
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+Layer 715
+  rotate: false
+  xy: 246, 151
+  size: 117, 158
+  orig: 117, 158
+  offset: 0, 0
+  index: -1
+Layer 715 copy
+  rotate: true
+  xy: 246, 32
+  size: 117, 158
+  orig: 117, 158
+  offset: 0, 0
+  index: -1
+Layer 716
+  rotate: true
+  xy: 149, 179
+  size: 130, 37
+  orig: 130, 37
+  offset: 0, 0
+  index: -1
+Layer 716 copy
+  rotate: true
+  xy: 342, 330
+  size: 130, 37
+  orig: 130, 37
+  offset: 0, 0
+  index: -1
+Layer 717
+  rotate: false
+  xy: 2, 4
+  size: 242, 165
+  orig: 242, 165
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 342, 312
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1

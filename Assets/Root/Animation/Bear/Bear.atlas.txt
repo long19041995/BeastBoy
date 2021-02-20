@@ -1,0 +1,69 @@
+
+Bear.png
+size: 424,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 170
+  rotate: false
+  xy: 287, 4
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+Layer 171
+  rotate: false
+  xy: 308, 189
+  size: 106, 112
+  orig: 106, 112
+  offset: 0, 0
+  index: -1
+Layer 180
+  rotate: false
+  xy: 223, 97
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+Layer 182
+  rotate: false
+  xy: 2, 94
+  size: 219, 325
+  orig: 219, 325
+  offset: 0, 0
+  index: -1
+Layer 183
+  rotate: true
+  xy: 2, 2
+  size: 90, 172
+  orig: 90, 172
+  offset: 0, 0
+  index: -1
+Layer 183 copy
+  rotate: false
+  xy: 223, 131
+  size: 83, 170
+  orig: 83, 170
+  offset: 0, 0
+  index: -1
+Layer 184
+  rotate: true
+  xy: 176, 7
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+Layer 184 copy
+  rotate: true
+  xy: 287, 58
+  size: 71, 115
+  orig: 71, 115
+  offset: 0, 0
+  index: -1
+Layer 185 copy
+  rotate: true
+  xy: 223, 303
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+deer.png
+size: 408,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 166
+  rotate: true
+  xy: 2, 22
+  size: 228, 141
+  orig: 228, 141
+  offset: 0, 0
+  index: -1
+Layer 168 copy
+  rotate: true
+  xy: 145, 67
+  size: 81, 123
+  orig: 81, 123
+  offset: 0, 0
+  index: -1
+Layer 169 copy
+  rotate: false
+  xy: 340, 318
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+Layer 179
+  rotate: true
+  xy: 145, 150
+  size: 100, 144
+  orig: 100, 144
+  offset: 0, 0
+  index: -1
+Layer 179 copy
+  rotate: false
+  xy: 291, 23
+  size: 112, 133
+  orig: 112, 133
+  offset: 0, 0
+  index: -1
+Layer 180
+  rotate: false
+  xy: 340, 209
+  size: 55, 107
+  orig: 55, 107
+  offset: 0, 0
+  index: -1
+Layer 180 copy
+  rotate: true
+  xy: 291, 158
+  size: 49, 113
+  orig: 49, 113
+  offset: 0, 0
+  index: -1
+Layer 181
+  rotate: false
+  xy: 2, 252
+  size: 336, 152
+  orig: 336, 152
+  offset: 0, 0
+  index: -1

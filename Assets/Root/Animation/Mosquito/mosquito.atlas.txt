@@ -1,0 +1,48 @@
+
+mosquito.png
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 4
+  rotate: false
+  xy: 2, 170
+  size: 196, 166
+  orig: 196, 166
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 149, 54
+  size: 114, 94
+  orig: 114, 94
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 245, 42
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 2, 29
+  size: 145, 139
+  orig: 145, 139
+  offset: 0, 0
+  index: -1
+Layer 7 copy
+  rotate: true
+  xy: 200, 191
+  size: 145, 136
+  orig: 145, 136
+  offset: 0, 0
+  index: -1
+Layer 8 copy 3
+  rotate: false
+  xy: 245, 100
+  size: 79, 89
+  orig: 79, 89
+  offset: 0, 0
+  index: -1

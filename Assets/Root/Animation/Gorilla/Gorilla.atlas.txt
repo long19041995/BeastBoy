@@ -1,0 +1,83 @@
+
+Gorilla.png
+size: 360,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 14 copy
+  rotate: true
+  xy: 171, 43
+  size: 85, 120
+  orig: 85, 120
+  offset: 0, 0
+  index: -1
+Layer 15 copy
+  rotate: false
+  xy: 94, 46
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+Layer 16 copy
+  rotate: true
+  xy: 2, 40
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 179, 130
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+Layer 23_1
+  rotate: false
+  xy: 293, 284
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Layer 27
+  rotate: false
+  xy: 2, 205
+  size: 175, 152
+  orig: 175, 152
+  offset: 0, 0
+  index: -1
+Layer 28
+  rotate: true
+  xy: 179, 241
+  size: 116, 112
+  orig: 116, 112
+  offset: 0, 0
+  index: -1
+Layer 29
+  rotate: false
+  xy: 94, 126
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+Layer 30
+  rotate: false
+  xy: 293, 293
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Layer 31
+  rotate: false
+  xy: 2, 105
+  size: 90, 98
+  orig: 90, 98
+  offset: 0, 0
+  index: -1
+Layer 32
+  rotate: false
+  xy: 290, 158
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1

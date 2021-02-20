@@ -1,0 +1,76 @@
+
+mouse.png
+size: 452,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 11
+  rotate: true
+  xy: 261, 205
+  size: 242, 186
+  orig: 242, 186
+  offset: 0, 0
+  index: -1
+Layer 11_1
+  rotate: false
+  xy: 334, 58
+  size: 88, 31
+  orig: 88, 31
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 214, 208
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 2, 16
+  size: 210, 248
+  orig: 210, 248
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 2, 266
+  size: 257, 181
+  orig: 257, 181
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 214, 91
+  size: 125, 112
+  orig: 125, 112
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 334, 12
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 381, 24
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 341, 94
+  size: 92, 109
+  orig: 92, 109
+  offset: 0, 0
+  index: -1
+t copy
+  rotate: true
+  xy: 214, 10
+  size: 79, 118
+  orig: 79, 118
+  offset: 0, 0
+  index: -1

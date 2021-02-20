@@ -1,0 +1,62 @@
+
+cheetah.png
+size: 1044,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 724
+  rotate: false
+  xy: 375, 880
+  size: 195, 160
+  orig: 195, 160
+  offset: 0, 0
+  index: -1
+Layer 725
+  rotate: false
+  xy: 572, 831
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+Layer 726
+  rotate: false
+  xy: 2, 834
+  size: 371, 206
+  orig: 371, 206
+  offset: 0, 0
+  index: -1
+Layer 727
+  rotate: false
+  xy: 572, 884
+  size: 190, 156
+  orig: 190, 156
+  offset: 0, 0
+  index: -1
+Layer 728 copy
+  rotate: true
+  xy: 764, 937
+  size: 103, 141
+  orig: 103, 141
+  offset: 0, 0
+  index: -1
+Layer 729 copy
+  rotate: true
+  xy: 764, 836
+  size: 99, 128
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+Layer 731 copy
+  rotate: true
+  xy: 894, 831
+  size: 94, 124
+  orig: 94, 124
+  offset: 0, 0
+  index: -1
+copy 2
+  rotate: false
+  xy: 907, 927
+  size: 133, 113
+  orig: 133, 113
+  offset: 0, 0
+  index: -1

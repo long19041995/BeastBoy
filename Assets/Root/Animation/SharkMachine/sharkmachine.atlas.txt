@@ -1,0 +1,27 @@
+
+sharkmachine.png
+size: 596,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 17
+  rotate: false
+  xy: 2, 349
+  size: 550, 244
+  orig: 550, 244
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: true
+  xy: 554, 404
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 554, 458
+  size: 135, 39
+  orig: 135, 39
+  offset: 0, 0
+  index: -1

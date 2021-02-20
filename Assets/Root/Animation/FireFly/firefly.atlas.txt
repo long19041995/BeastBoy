@@ -1,0 +1,90 @@
+
+firefly.png
+size: 244,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 87
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+Layer 757
+  rotate: false
+  xy: 126, 47
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Layer 758
+  rotate: false
+  xy: 159, 76
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+Layer 759
+  rotate: false
+  xy: 159, 154
+  size: 74, 87
+  orig: 74, 87
+  offset: 0, 0
+  index: -1
+Layer 760
+  rotate: true
+  xy: 151, 7
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+Layer 761
+  rotate: false
+  xy: 2, 3
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Layer 762
+  rotate: false
+  xy: 122, 2
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+Layer 762 copy
+  rotate: false
+  xy: 2, 49
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Layer 764 copy
+  rotate: false
+  xy: 41, 18
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+Layer 764 copy 2
+  rotate: false
+  xy: 159, 55
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+Layer 764 copy 3
+  rotate: false
+  xy: 41, 55
+  size: 83, 30
+  orig: 83, 30
+  offset: 0, 0
+  index: -1
+Layer 764 copy 4
+  rotate: false
+  xy: 159, 33
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1

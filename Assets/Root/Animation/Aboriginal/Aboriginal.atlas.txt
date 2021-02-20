@@ -1,0 +1,125 @@
+
+Aboriginal.png
+size: 384,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 308
+  rotate: false
+  xy: 2, 138
+  size: 176, 244
+  orig: 176, 244
+  offset: 0, 0
+  index: -1
+Layer 309
+  rotate: true
+  xy: 312, 169
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+Layer 310
+  rotate: false
+  xy: 180, 131
+  size: 130, 251
+  orig: 130, 251
+  offset: 0, 0
+  index: -1
+Layer 311
+  rotate: true
+  xy: 260, 9
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+Layer 312
+  rotate: false
+  xy: 312, 265
+  size: 65, 117
+  orig: 65, 117
+  offset: 0, 0
+  index: -1
+Layer 313
+  rotate: false
+  xy: 309, 65
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+Layer 314
+  rotate: true
+  xy: 175, 79
+  size: 50, 92
+  orig: 50, 92
+  offset: 0, 0
+  index: -1
+Layer 315 copy
+  rotate: false
+  xy: 269, 57
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+Layer 315 copy 2
+  rotate: false
+  xy: 269, 57
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+Layer 316 copy
+  rotate: true
+  xy: 175, 18
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+Layer 316 copy 2
+  rotate: true
+  xy: 175, 18
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+Layer 317
+  rotate: true
+  xy: 2, 2
+  size: 134, 133
+  orig: 134, 133
+  offset: 0, 0
+  index: -1
+Layer 617
+  rotate: false
+  xy: 312, 128
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+Layer 619
+  rotate: false
+  xy: 353, 98
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+da
+  rotate: false
+  xy: 137, 17
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 137, 53
+  size: 83, 36
+  orig: 83, 36
+  offset: 0, 0
+  index: -1
+m
+  rotate: true
+  xy: 353, 69
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+Corcodie.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 22
+  rotate: false
+  xy: 2, 15
+  size: 276, 148
+  orig: 276, 148
+  offset: 0, 0
+  index: -1
+Group 23
+  rotate: true
+  xy: 342, 304
+  size: 206, 80
+  orig: 206, 80
+  offset: 0, 0
+  index: -1
+Group 24
+  rotate: false
+  xy: 2, 295
+  size: 338, 215
+  orig: 338, 215
+  offset: 0, 0
+  index: -1
+Group 26
+  rotate: false
+  xy: 2, 165
+  size: 321, 128
+  orig: 321, 128
+  offset: 0, 0
+  index: -1
+Layer 100
+  rotate: false
+  xy: 325, 197
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+Layer 100_1
+  rotate: true
+  xy: 351, 18
+  size: 66, 96
+  orig: 66, 96
+  offset: 0, 0
+  index: -1
+Layer 101
+  rotate: true
+  xy: 280, 59
+  size: 104, 69
+  orig: 104, 69
+  offset: 0, 0
+  index: -1
+Layer 101_1
+  rotate: true
+  xy: 424, 279
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+Layer 102
+  rotate: true
+  xy: 394, 183
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+Layer 102 copy
+  rotate: false
+  xy: 351, 86
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+Layer 103
+  rotate: true
+  xy: 449, 2
+  size: 88, 50
+  orig: 88, 50
+  offset: 0, 0
+  index: -1
+Layer 103 copy
+  rotate: true
+  xy: 447, 92
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+Layer 255
+  rotate: false
+  xy: 280, 40
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+Layer 256
+  rotate: true
+  xy: 325, 185
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+Layer keo
+  rotate: true
+  xy: 424, 384
+  size: 126, 76
+  orig: 126, 76
+  offset: 0, 0
+  index: -1

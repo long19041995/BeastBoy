@@ -1,0 +1,27 @@
+
+Eel.png
+size: 652,652
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 2, 500
+  size: 590, 147
+  orig: 590, 147
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: true
+  xy: 594, 516
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 594, 579
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1

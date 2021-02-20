@@ -1,0 +1,104 @@
+
+Dino.png
+size: 408,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 13
+  rotate: false
+  xy: 154, 115
+  size: 132, 83
+  orig: 132, 83
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: true
+  xy: 291, 251
+  size: 154, 77
+  orig: 154, 77
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 2, 200
+  size: 287, 205
+  orig: 287, 205
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 2, 25
+  size: 150, 173
+  orig: 150, 173
+  offset: 0, 0
+  index: -1
+Layer 17 copy
+  rotate: false
+  xy: 343, 51
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 318, 2
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+Layer 18 copy
+  rotate: true
+  xy: 318, 2
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 264, 12
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+Layer 19 copy
+  rotate: false
+  xy: 264, 12
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: true
+  xy: 154, 43
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+Layer 20 copy
+  rotate: true
+  xy: 291, 179
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 154, 2
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+Layer 21 copy
+  rotate: false
+  xy: 264, 58
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: true
+  xy: 288, 99
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1

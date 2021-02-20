@@ -1,0 +1,69 @@
+
+Turtle.png
+size: 252,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 12
+  rotate: true
+  xy: 189, 49
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: true
+  xy: 61, 38
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: true
+  xy: 157, 110
+  size: 138, 91
+  orig: 138, 91
+  offset: 0, 0
+  index: -1
+Layer 14 - Copy
+  rotate: false
+  xy: 2, 147
+  size: 153, 101
+  orig: 153, 101
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 2, 81
+  size: 123, 64
+  orig: 123, 64
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: true
+  xy: 127, 52
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Layer 16 copy
+  rotate: true
+  xy: 127, 52
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: true
+  xy: 2, 39
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+Layer 17 copy
+  rotate: true
+  xy: 2, 39
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1

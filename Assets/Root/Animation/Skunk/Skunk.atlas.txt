@@ -1,0 +1,104 @@
+
+Skunk.png
+size: 372,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 105
+  rotate: true
+  xy: 2, 9
+  size: 124, 144
+  orig: 124, 144
+  offset: 0, 0
+  index: -1
+Layer 105_1
+  rotate: true
+  xy: 203, 286
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+Layer 105_2
+  rotate: false
+  xy: 148, 4
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: -1
+Layer 106
+  rotate: true
+  xy: 148, 19
+  size: 114, 188
+  orig: 114, 188
+  offset: 0, 0
+  index: -1
+Layer 107
+  rotate: true
+  xy: 203, 137
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+Layer 108
+  rotate: false
+  xy: 296, 238
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+Layer 109
+  rotate: false
+  xy: 338, 106
+  size: 30, 72
+  orig: 30, 72
+  offset: 0, 0
+  index: -1
+Layer 110
+  rotate: false
+  xy: 334, 180
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+Layer 111
+  rotate: true
+  xy: 282, 303
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+Layer 112
+  rotate: false
+  xy: 203, 185
+  size: 89, 34
+  orig: 89, 34
+  offset: 0, 0
+  index: -1
+Layer 112 copy
+  rotate: true
+  xy: 296, 147
+  size: 89, 36
+  orig: 89, 36
+  offset: 0, 0
+  index: -1
+Layer 113
+  rotate: true
+  xy: 203, 221
+  size: 63, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+Layer 114
+  rotate: false
+  xy: 2, 135
+  size: 199, 235
+  orig: 199, 235
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 264, 159
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1

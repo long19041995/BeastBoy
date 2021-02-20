@@ -1,0 +1,97 @@
+
+wolf.png
+size: 640,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 298
+  rotate: true
+  xy: 2, 93
+  size: 249, 258
+  orig: 249, 258
+  offset: 0, 0
+  index: -1
+Layer 298_1
+  rotate: true
+  xy: 524, 514
+  size: 123, 113
+  orig: 123, 113
+  offset: 0, 0
+  index: -1
+Layer 299
+  rotate: true
+  xy: 524, 380
+  size: 132, 108
+  orig: 132, 108
+  offset: 0, 0
+  index: -1
+Layer 300
+  rotate: false
+  xy: 2, 344
+  size: 520, 293
+  orig: 520, 293
+  offset: 0, 0
+  index: -1
+Layer 301
+  rotate: true
+  xy: 477, 8
+  size: 115, 147
+  orig: 115, 147
+  offset: 0, 0
+  index: -1
+Layer 302
+  rotate: true
+  xy: 262, 16
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+Layer 305
+  rotate: true
+  xy: 477, 125
+  size: 139, 132
+  orig: 139, 132
+  offset: 0, 0
+  index: -1
+Layer 306
+  rotate: false
+  xy: 369, 21
+  size: 65, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+Layer 614
+  rotate: true
+  xy: 436, 38
+  size: 81, 36
+  orig: 81, 36
+  offset: 0, 0
+  index: -1
+Layer 614 rai
+  rotate: false
+  xy: 157, 40
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+soi2
+  rotate: false
+  xy: 262, 121
+  size: 213, 221
+  orig: 213, 221
+  offset: 0, 0
+  index: -1
+soi3
+  rotate: false
+  xy: 524, 266
+  size: 106, 112
+  orig: 106, 112
+  offset: 0, 0
+  index: -1
+soi4
+  rotate: false
+  xy: 2, 30
+  size: 153, 61
+  orig: 153, 61
+  offset: 0, 0
+  index: -1

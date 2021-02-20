@@ -1,0 +1,20 @@
+
+taxi.png
+size: 924,924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banhxe
+  rotate: false
+  xy: 706, 705
+  size: 215, 216
+  orig: 215, 216
+  offset: 0, 0
+  index: -1
+taxi
+  rotate: false
+  xy: 2, 368
+  size: 702, 553
+  orig: 702, 553
+  offset: 0, 0
+  index: -1

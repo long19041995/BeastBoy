@@ -1,0 +1,48 @@
+
+Carnivorous.png
+size: 1220,1220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 5
+  rotate: false
+  xy: 2, 330
+  size: 724, 887
+  orig: 724, 887
+  offset: 0, 0
+  index: -1
+im/Layer 3 copy
+  rotate: false
+  xy: 543, 87
+  size: 524, 241
+  orig: 524, 241
+  offset: 0, 0
+  index: -1
+im/Layer 4 copy
+  rotate: false
+  xy: 728, 957
+  size: 456, 260
+  orig: 456, 260
+  offset: 0, 0
+  index: -1
+im/Layer 6
+  rotate: true
+  xy: 968, 613
+  size: 342, 193
+  orig: 342, 193
+  offset: 0, 0
+  index: -1
+im/Layer 7
+  rotate: true
+  xy: 728, 459
+  size: 496, 238
+  orig: 496, 238
+  offset: 0, 0
+  index: -1
+im/Layer 8
+  rotate: false
+  xy: 2, 2
+  size: 539, 326
+  orig: 539, 326
+  offset: 0, 0
+  index: -1

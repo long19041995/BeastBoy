@@ -1,0 +1,90 @@
+
+cockroach.png
+size: 244,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 17
+  rotate: false
+  xy: 2, 115
+  size: 137, 126
+  orig: 137, 126
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 141, 137
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 141, 106
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+Layer 19 copy
+  rotate: false
+  xy: 183, 106
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: true
+  xy: 75, 91
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+Layer 20 copy
+  rotate: false
+  xy: 115, 75
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: true
+  xy: 75, 66
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Layer 21 copy
+  rotate: false
+  xy: 227, 205
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: false
+  xy: 36, 90
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Layer 22 copy
+  rotate: false
+  xy: 2, 81
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: true
+  xy: 2, 58
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: true
+  xy: 36, 68
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+Cow.png
+size: 592,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 2, 38
+  size: 182, 244
+  orig: 182, 244
+  offset: 0, 0
+  index: -1
+Layer 17 copy
+  rotate: false
+  xy: 2, 284
+  size: 478, 306
+  orig: 478, 306
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 320, 33
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+Layer 18 copy
+  rotate: true
+  xy: 320, 158
+  size: 124, 149
+  orig: 124, 149
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: true
+  xy: 482, 430
+  size: 42, 108
+  orig: 42, 108
+  offset: 0, 0
+  index: -1
+Layer 19 copy
+  rotate: true
+  xy: 482, 386
+  size: 42, 108
+  orig: 42, 108
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 186, 85
+  size: 132, 197
+  orig: 132, 197
+  offset: 0, 0
+  index: -1
+Layer 21 copy
+  rotate: false
+  xy: 471, 157
+  size: 119, 125
+  orig: 119, 125
+  offset: 0, 0
+  index: -1
+Layer 22 copy
+  rotate: false
+  xy: 482, 474
+  size: 85, 116
+  orig: 85, 116
+  offset: 0, 0
+  index: -1

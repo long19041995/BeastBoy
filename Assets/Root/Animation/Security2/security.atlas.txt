@@ -1,0 +1,104 @@
+
+security.png
+size: 616,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 13
+  rotate: false
+  xy: 573, 474
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: true
+  xy: 511, 119
+  size: 308, 101
+  orig: 308, 101
+  offset: 0, 0
+  index: -1
+Layer 52
+  rotate: false
+  xy: 365, 429
+  size: 177, 183
+  orig: 177, 183
+  offset: 0, 0
+  index: -1
+Layer 61
+  rotate: true
+  xy: 544, 433
+  size: 93, 27
+  orig: 93, 27
+  offset: 0, 0
+  index: -1
+Layer 64
+  rotate: false
+  xy: 2, 283
+  size: 361, 329
+  orig: 361, 329
+  offset: 0, 0
+  index: -1
+Layer 65
+  rotate: true
+  xy: 365, 245
+  size: 182, 144
+  orig: 182, 144
+  offset: 0, 0
+  index: -1
+Layer 66
+  rotate: true
+  xy: 2, 161
+  size: 120, 191
+  orig: 120, 191
+  offset: 0, 0
+  index: -1
+Layer 67
+  rotate: false
+  xy: 195, 111
+  size: 119, 170
+  orig: 119, 170
+  offset: 0, 0
+  index: -1
+Layer 68
+  rotate: true
+  xy: 2, 66
+  size: 93, 167
+  orig: 93, 167
+  offset: 0, 0
+  index: -1
+Layer 69
+  rotate: false
+  xy: 544, 528
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+Layer 70
+  rotate: true
+  xy: 171, 50
+  size: 59, 119
+  orig: 59, 119
+  offset: 0, 0
+  index: -1
+Layer 71
+  rotate: true
+  xy: 399, 34
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+Layer 72
+  rotate: false
+  xy: 399, 142
+  size: 80, 101
+  orig: 80, 101
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 316, 77
+  size: 166, 81
+  orig: 166, 81
+  offset: 0, 0
+  index: -1

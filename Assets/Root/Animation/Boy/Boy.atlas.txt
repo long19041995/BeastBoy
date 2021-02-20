@@ -1,0 +1,111 @@
+
+Boy.png
+size: 324,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 252 copy
+  rotate: false
+  xy: 257, 165
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+Layer 255
+  rotate: false
+  xy: 2, 106
+  size: 253, 215
+  orig: 253, 215
+  offset: 0, 0
+  index: -1
+Layer 256
+  rotate: true
+  xy: 66, 3
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+Layer 258
+  rotate: true
+  xy: 134, 3
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+Layer 259
+  rotate: true
+  xy: 142, 55
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+Layer 260
+  rotate: false
+  xy: 257, 233
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: -1
+Layer 261
+  rotate: false
+  xy: 2, 2
+  size: 62, 102
+  orig: 62, 102
+  offset: 0, 0
+  index: -1
+Layer 262
+  rotate: true
+  xy: 208, 9
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Layer 263
+  rotate: true
+  xy: 257, 20
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+Layer 264
+  rotate: false
+  xy: 257, 120
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+Layer 265
+  rotate: false
+  xy: 218, 37
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+Layer 266
+  rotate: false
+  xy: 289, 50
+  size: 28, 68
+  orig: 28, 68
+  offset: 0, 0
+  index: -1
+Layer 267
+  rotate: true
+  xy: 142, 28
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+Layer 268
+  rotate: false
+  xy: 257, 43
+  size: 30, 75
+  orig: 30, 75
+  offset: 0, 0
+  index: -1
+Layer 269
+  rotate: false
+  xy: 66, 45
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1

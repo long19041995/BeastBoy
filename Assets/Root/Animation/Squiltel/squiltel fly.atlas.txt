@@ -1,0 +1,27 @@
+
+squiltel fly.png
+size: 280,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 752
+  rotate: false
+  xy: 149, 57
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+Layer 753
+  rotate: false
+  xy: 2, 116
+  size: 235, 161
+  orig: 235, 161
+  offset: 0, 0
+  index: -1
+Layer 754
+  rotate: false
+  xy: 2, 2
+  size: 145, 112
+  orig: 145, 112
+  offset: 0, 0
+  index: -1

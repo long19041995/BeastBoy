@@ -1,0 +1,48 @@
+
+Whale.png
+size: 1040,1040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 37
+  rotate: false
+  xy: 1001, 979
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+Layer 38
+  rotate: false
+  xy: 387, 861
+  size: 289, 176
+  orig: 289, 176
+  offset: 0, 0
+  index: -1
+Layer 39
+  rotate: false
+  xy: 817, 884
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: -1
+Layer 40
+  rotate: false
+  xy: 678, 915
+  size: 137, 122
+  orig: 137, 122
+  offset: 0, 0
+  index: -1
+Layer 41
+  rotate: false
+  xy: 2, 853
+  size: 383, 184
+  orig: 383, 184
+  offset: 0, 0
+  index: -1
+Layer 42
+  rotate: false
+  xy: 817, 954
+  size: 182, 83
+  orig: 182, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+Airplane.png
+size: 500,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 15
+  rotate: false
+  xy: 2, 123
+  size: 495, 247
+  orig: 495, 247
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: true
+  xy: 128, 372
+  size: 125, 200
+  orig: 125, 200
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 2, 375
+  size: 124, 122
+  orig: 124, 122
+  offset: 0, 0
+  index: -1

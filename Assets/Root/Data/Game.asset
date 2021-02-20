@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fa2bc5becf2ead48ba7f9a41da00ccd, type: 3}
+  m_Name: Game
+  m_EditorClassIdentifier: 
+  indexMap: 0
+  listMap:
+  - {fileID: 11400000, guid: d958caa67b9470c4c98b08a6493ee0ed, type: 2}
+  listPopup:
+  - {fileID: 11400000, guid: f03017628ade3f54180acccb7523e499, type: 2}
+  - {fileID: 11400000, guid: 2a69a081c9c79394b85690f65a14ee2f, type: 2}
+  - {fileID: 11400000, guid: bb70e4884e958bf4bb436a048cc02d42, type: 2}
+  smoke: {fileID: 2040204592439388627, guid: 6992edbbeb8f67d439d67c314da34ba8, type: 3}
+  coin: 0
+  isMuteSoundAll: 1
+  isMuteSound: 0
+  isBeta: 0
+  indexIngame: 0
+  usePlayerPrefs: 1

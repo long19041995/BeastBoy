@@ -1,0 +1,230 @@
+
+Boy3.png
+size: 460,460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 29
+  rotate: false
+  xy: 257, 2
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Layer 255
+  rotate: true
+  xy: 319, 301
+  size: 157, 95
+  orig: 157, 95
+  offset: 0, 0
+  index: -1
+Layer 255 copy
+  rotate: false
+  xy: 2, 55
+  size: 254, 216
+  orig: 254, 216
+  offset: 0, 0
+  index: -1
+Layer 256
+  rotate: false
+  xy: 421, 165
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+Layer 258
+  rotate: true
+  xy: 174, 5
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+Layer 259
+  rotate: true
+  xy: 303, 73
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+Layer 260
+  rotate: false
+  xy: 258, 59
+  size: 43, 71
+  orig: 43, 71
+  offset: 0, 0
+  index: -1
+Layer 261
+  rotate: true
+  xy: 319, 243
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+Layer 262
+  rotate: false
+  xy: 360, 5
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Layer 263
+  rotate: false
+  xy: 285, 2
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+Layer 264
+  rotate: false
+  xy: 308, 5
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+Layer 265
+  rotate: true
+  xy: 2, 2
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+Layer 266
+  rotate: true
+  xy: 393, 96
+  size: 29, 65
+  orig: 29, 65
+  offset: 0, 0
+  index: -1
+Layer 267
+  rotate: true
+  xy: 311, 115
+  size: 31, 80
+  orig: 31, 80
+  offset: 0, 0
+  index: -1
+Layer 268
+  rotate: true
+  xy: 311, 148
+  size: 33, 79
+  orig: 33, 79
+  offset: 0, 0
+  index: -1
+Layer 271
+  rotate: false
+  xy: 393, 127
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+Layer 271 copy
+  rotate: false
+  xy: 393, 127
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+Layer 272 copy
+  rotate: true
+  xy: 258, 132
+  size: 139, 40
+  orig: 139, 40
+  offset: 0, 0
+  index: -1
+Layer 273
+  rotate: false
+  xy: 393, 49
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+Layer 274
+  rotate: false
+  xy: 389, 18
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+daythung1
+  rotate: false
+  xy: 197, 29
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+daythung1 - Copy
+  rotate: false
+  xy: 303, 47
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+daythung2
+  rotate: true
+  xy: 2, 36
+  size: 17, 193
+  orig: 17, 193
+  offset: 0, 0
+  index: -1
+daythung2 - Copy
+  rotate: false
+  xy: 300, 143
+  size: 9, 128
+  orig: 9, 128
+  offset: 0, 0
+  index: -1
+longmayL
+  rotate: true
+  xy: 421, 222
+  size: 72, 37
+  orig: 72, 37
+  offset: 0, 0
+  index: -1
+longmayR
+  rotate: true
+  xy: 368, 59
+  size: 54, 23
+  orig: 54, 23
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 68, 4
+  size: 104, 30
+  orig: 104, 30
+  offset: 0, 0
+  index: -1
+mouth - Copy
+  rotate: true
+  xy: 416, 296
+  size: 104, 30
+  orig: 104, 30
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 311, 183
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+mouthdie
+  rotate: true
+  xy: 416, 402
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 2, 273
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 258, 41
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1

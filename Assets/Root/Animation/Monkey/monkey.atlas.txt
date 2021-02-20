@@ -1,0 +1,97 @@
+
+monkey.png
+size: 400,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Apple
+  rotate: false
+  xy: 313, 243
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+Layer 696
+  rotate: false
+  xy: 2, 196
+  size: 189, 200
+  orig: 189, 200
+  offset: 0, 0
+  index: -1
+Layer 697
+  rotate: false
+  xy: 257, 77
+  size: 111, 152
+  orig: 111, 152
+  offset: 0, 0
+  index: -1
+Layer 698
+  rotate: true
+  xy: 313, 341
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+Layer 699
+  rotate: false
+  xy: 204, 116
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+Layer 700
+  rotate: true
+  xy: 313, 288
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Layer 701
+  rotate: false
+  xy: 204, 21
+  size: 40, 93
+  orig: 40, 93
+  offset: 0, 0
+  index: -1
+Layer 702
+  rotate: true
+  xy: 193, 198
+  size: 31, 62
+  orig: 31, 62
+  offset: 0, 0
+  index: -1
+Layer 703
+  rotate: false
+  xy: 357, 235
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Layer 704
+  rotate: true
+  xy: 246, 14
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+Layer 705
+  rotate: false
+  xy: 334, 16
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+Layer 706
+  rotate: false
+  xy: 193, 231
+  size: 118, 165
+  orig: 118, 165
+  offset: 0, 0
+  index: -1
+motion
+  rotate: true
+  xy: 2, 5
+  size: 189, 200
+  orig: 189, 200
+  offset: 0, 0
+  index: -1

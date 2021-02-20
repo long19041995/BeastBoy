@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de5ee96d56299f24b921d8bff8e4b6d3, type: 3}
+  m_Name: Level13
+  m_EditorClassIdentifier: 
+  type: 2
+  level: {fileID: 406510672133832293, guid: 21cd87c0b3e7f8642b4a5b3f31845b71, type: 3}
+  progressBar: {fileID: 6956377841771352256, guid: f2d4a3e255c101545a069006a60d7ef2,
+    type: 3}
+  IndexWave: 0
+  listWave:
+  - {fileID: 11400000, guid: 047cd8c98a4b12a4ba8bb8fc7ef37bda, type: 2}
+  - {fileID: 11400000, guid: 7a5aea334bc30224aa2fadd8ee2c0260, type: 2}
+  - {fileID: 11400000, guid: 6c41192014018764897ea119f3b57d8b, type: 2}

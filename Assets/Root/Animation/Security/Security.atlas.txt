@@ -1,0 +1,132 @@
+
+Security.png
+size: 508,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 100
+  size: 165, 159
+  orig: 165, 159
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 169, 106
+  size: 128, 153
+  orig: 128, 153
+  offset: 0, 0
+  index: -1
+Layer 259
+  rotate: false
+  xy: 297, 271
+  size: 131, 67
+  orig: 131, 67
+  offset: 0, 0
+  index: -1
+Layer 59
+  rotate: false
+  xy: 420, 146
+  size: 74, 123
+  orig: 74, 123
+  offset: 0, 0
+  index: -1
+Layer 59 copy
+  rotate: false
+  xy: 299, 117
+  size: 119, 152
+  orig: 119, 152
+  offset: 0, 0
+  index: -1
+Layer 59_1
+  rotate: true
+  xy: 153, 65
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+Layer 61
+  rotate: true
+  xy: 169, 26
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+Layer 62
+  rotate: true
+  xy: 299, 44
+  size: 71, 115
+  orig: 71, 115
+  offset: 0, 0
+  index: -1
+Layer 64
+  rotate: false
+  xy: 77, 3
+  size: 74, 95
+  orig: 74, 95
+  offset: 0, 0
+  index: -1
+Layer 64_l
+  rotate: true
+  xy: 420, 81
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+Layer 65
+  rotate: false
+  xy: 416, 25
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Layer 65_l
+  rotate: true
+  xy: 430, 281
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+Layer 66
+  rotate: true
+  xy: 463, 345
+  size: 79, 31
+  orig: 79, 31
+  offset: 0, 0
+  index: -1
+Layer 66_l
+  rotate: true
+  xy: 463, 426
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+Layer 67
+  rotate: false
+  xy: 2, 2
+  size: 73, 96
+  orig: 73, 96
+  offset: 0, 0
+  index: -1
+Layer 68
+  rotate: false
+  xy: 297, 340
+  size: 164, 166
+  orig: 164, 166
+  offset: 0, 0
+  index: -1
+keo1
+  rotate: false
+  xy: 2, 342
+  size: 293, 164
+  orig: 293, 164
+  offset: 0, 0
+  index: -1
+keo2
+  rotate: false
+  xy: 2, 261
+  size: 293, 79
+  orig: 293, 79
+  offset: 0, 0
+  index: -1

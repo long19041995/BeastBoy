@@ -1,0 +1,34 @@
+
+Eye.png
+size: 492,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 21
+  rotate: false
+  xy: 456, 197
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+Layer 21 copy
+  rotate: false
+  xy: 456, 197
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: false
+  xy: 2, 36
+  size: 452, 217
+  orig: 452, 217
+  offset: 0, 0
+  index: -1
+Layer 23 copy
+  rotate: false
+  xy: 2, 255
+  size: 472, 233
+  orig: 472, 233
+  offset: 0, 0
+  index: -1

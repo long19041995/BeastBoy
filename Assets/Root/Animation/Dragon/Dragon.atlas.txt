@@ -1,0 +1,104 @@
+
+Dragon.png
+size: 568,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 171
+  rotate: true
+  xy: 249, 419
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+Layer 171_1
+  rotate: true
+  xy: 249, 361
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+Layer 172
+  rotate: true
+  xy: 2, 2
+  size: 170, 167
+  orig: 170, 167
+  offset: 0, 0
+  index: -1
+Layer 172_1
+  rotate: true
+  xy: 171, 2
+  size: 170, 167
+  orig: 170, 167
+  offset: 0, 0
+  index: -1
+Layer 174 copy 2
+  rotate: false
+  xy: 2, 341
+  size: 245, 134
+  orig: 245, 134
+  offset: 0, 0
+  index: -1
+Layer 182 copy
+  rotate: false
+  xy: 288, 310
+  size: 266, 253
+  orig: 266, 253
+  offset: 0, 0
+  index: -1
+Layer 185
+  rotate: true
+  xy: 389, 120
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+Layer 185_1
+  rotate: true
+  xy: 340, 87
+  size: 100, 47
+  orig: 100, 47
+  offset: 0, 0
+  index: -1
+Layer 186 copy
+  rotate: false
+  xy: 248, 189
+  size: 92, 119
+  orig: 92, 119
+  offset: 0, 0
+  index: -1
+Layer 187 copy
+  rotate: false
+  xy: 436, 219
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+Layer 188 copy
+  rotate: false
+  xy: 340, 5
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Layer 189 copy
+  rotate: true
+  xy: 342, 214
+  size: 94, 92
+  orig: 94, 92
+  offset: 0, 0
+  index: -1
+Layer 190
+  rotate: false
+  xy: 2, 174
+  size: 244, 165
+  orig: 244, 165
+  offset: 0, 0
+  index: -1
+Layer 191
+  rotate: false
+  xy: 2, 477
+  size: 284, 86
+  orig: 284, 86
+  offset: 0, 0
+  index: -1

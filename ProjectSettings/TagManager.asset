@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ProgressBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Answer
+  - Land
+  - Character
+  - Item
+  - Wall
+  - ProgressBar
+  - Popup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3811708815
+    locked: 0
+  - name: Item
+    uniqueID: 1928487391
+    locked: 0
+  - name: Character
+    uniqueID: 2364852839
+    locked: 0
+  - name: Wall
+    uniqueID: 4187589921
+    locked: 0
+  - name: Land
+    uniqueID: 2022524655
+    locked: 0
+  - name: Answer
+    uniqueID: 358001169
+    locked: 0
+  - name: ProgressBar
+    uniqueID: 3298810469
+    locked: 0
+  - name: Popup
+    uniqueID: 3475735577
+    locked: 0

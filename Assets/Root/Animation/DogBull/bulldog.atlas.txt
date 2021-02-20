@@ -1,0 +1,76 @@
+
+bulldog.png
+size: 548,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 12
+  rotate: true
+  xy: 449, 368
+  size: 98, 56
+  orig: 98, 56
+  offset: 0, 0
+  index: -1
+Group 13
+  rotate: false
+  xy: 193, 418
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+Group 14
+  rotate: false
+  xy: 2, 395
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+Group 15
+  rotate: false
+  xy: 325, 434
+  size: 122, 109
+  orig: 122, 109
+  offset: 0, 0
+  index: -1
+Layer 259
+  rotate: false
+  xy: 400, 373
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+Layer 82
+  rotate: true
+  xy: 325, 369
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+Layer 83
+  rotate: false
+  xy: 449, 468
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+Layer 84
+  rotate: true
+  xy: 193, 368
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 507, 409
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+rang
+  rotate: true
+  xy: 526, 494
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1

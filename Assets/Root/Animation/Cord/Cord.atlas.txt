@@ -1,0 +1,13 @@
+
+Cord.png
+size: 708,708
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cord
+  rotate: false
+  xy: 2, 539
+  size: 704, 167
+  orig: 704, 167
+  offset: 0, 0
+  index: -1

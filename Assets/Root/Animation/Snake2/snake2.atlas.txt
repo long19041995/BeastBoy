@@ -1,0 +1,34 @@
+
+snake2.png
+size: 776,776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 502 copy
+  rotate: false
+  xy: 668, 720
+  size: 105, 53
+  orig: 105, 53
+  offset: 0, 0
+  index: -1
+Layer 503 copy
+  rotate: true
+  xy: 2, 738
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Layer 504 copy
+  rotate: false
+  xy: 603, 725
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+images
+  rotate: false
+  xy: 43, 726
+  size: 558, 47
+  orig: 558, 47
+  offset: 0, 0
+  index: -1

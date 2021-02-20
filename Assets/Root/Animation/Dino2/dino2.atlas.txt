@@ -1,0 +1,69 @@
+
+dino2.png
+size: 480,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: true
+  xy: 335, 327
+  size: 148, 122
+  orig: 148, 122
+  offset: 0, 0
+  index: -1
+Layer 16_1
+  rotate: true
+  xy: 438, 86
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Layer 16_2
+  rotate: true
+  xy: 386, 72
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 2, 254
+  size: 331, 221
+  orig: 331, 221
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 2, 52
+  size: 382, 174
+  orig: 382, 174
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 386, 123
+  size: 89, 103
+  orig: 89, 103
+  offset: 0, 0
+  index: -1
+Layer 19 copy
+  rotate: false
+  xy: 386, 123
+  size: 89, 103
+  orig: 89, 103
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: true
+  xy: 335, 228
+  size: 97, 107
+  orig: 97, 107
+  offset: 0, 0
+  index: -1
+Layer 20 copy
+  rotate: true
+  xy: 335, 228
+  size: 97, 107
+  orig: 97, 107
+  offset: 0, 0
+  index: -1

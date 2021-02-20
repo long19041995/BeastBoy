@@ -1,0 +1,48 @@
+
+Te Te.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 168
+  rotate: false
+  xy: 2, 220
+  size: 359, 141
+  orig: 359, 141
+  offset: 0, 0
+  index: -1
+Layer 171
+  rotate: false
+  xy: 176, 65
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+Layer 171 copy
+  rotate: false
+  xy: 176, 65
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+Layer 173
+  rotate: false
+  xy: 176, 139
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+Layer 173 copy
+  rotate: false
+  xy: 176, 139
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 2, 53
+  size: 172, 165
+  orig: 172, 165
+  offset: 0, 0
+  index: -1

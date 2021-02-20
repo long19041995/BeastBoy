@@ -1,0 +1,97 @@
+
+Cat 2.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 13
+  rotate: true
+  xy: 2, 76
+  size: 140, 123
+  orig: 140, 123
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: true
+  xy: 127, 70
+  size: 146, 88
+  orig: 146, 88
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 2, 23
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 217, 72
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 61, 24
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 217, 118
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 221, 173
+  size: 91, 139
+  orig: 91, 139
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 258, 150
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 258, 127
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+Layer 6 - Copy
+  rotate: true
+  xy: 251, 86
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+lighttt
+  rotate: false
+  xy: 2, 218
+  size: 217, 94
+  orig: 217, 94
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 217, 39
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+water
+  rotate: true
+  xy: 112, 48
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1

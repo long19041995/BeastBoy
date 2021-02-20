@@ -1,0 +1,83 @@
+
+tiger.png
+size: 1032,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 283
+  rotate: false
+  xy: 417, 874
+  size: 194, 153
+  orig: 194, 153
+  offset: 0, 0
+  index: -1
+Layer 283_1
+  rotate: false
+  xy: 892, 891
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+Layer 284
+  rotate: true
+  xy: 977, 815
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+Layer 285
+  rotate: false
+  xy: 2, 821
+  size: 413, 206
+  orig: 413, 206
+  offset: 0, 0
+  index: -1
+Layer 285_1
+  rotate: false
+  xy: 787, 899
+  size: 132, 128
+  orig: 132, 128
+  offset: 0, 0
+  index: -1
+Layer 286
+  rotate: true
+  xy: 613, 829
+  size: 94, 132
+  orig: 94, 132
+  offset: 0, 0
+  index: -1
+Layer 287
+  rotate: true
+  xy: 782, 808
+  size: 89, 108
+  orig: 89, 108
+  offset: 0, 0
+  index: -1
+Layer 288
+  rotate: true
+  xy: 613, 925
+  size: 102, 172
+  orig: 102, 172
+  offset: 0, 0
+  index: -1
+Layer 290
+  rotate: false
+  xy: 921, 882
+  size: 103, 145
+  orig: 103, 145
+  offset: 0, 0
+  index: -1
+Layer 291
+  rotate: true
+  xy: 892, 807
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+Layer 616
+  rotate: true
+  xy: 747, 830
+  size: 93, 33
+  orig: 93, 33
+  offset: 0, 0
+  index: -1

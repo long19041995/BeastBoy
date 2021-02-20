@@ -1,0 +1,111 @@
+
+mantis.png
+size: 452,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daythung1
+  rotate: true
+  xy: 305, 12
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+daythung1 - Copy
+  rotate: true
+  xy: 405, 38
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+daythung2
+  rotate: false
+  xy: 409, 98
+  size: 17, 193
+  orig: 17, 193
+  offset: 0, 0
+  index: -1
+daythung2 - Copy
+  rotate: false
+  xy: 428, 163
+  size: 9, 128
+  orig: 9, 128
+  offset: 0, 0
+  index: -1
+imagesmantis/Layer 10
+  rotate: false
+  xy: 2, 93
+  size: 136, 225
+  orig: 136, 225
+  offset: 0, 0
+  index: -1
+imagesmantis/Layer 11
+  rotate: true
+  xy: 2, 15
+  size: 76, 122
+  orig: 76, 122
+  offset: 0, 0
+  index: -1
+imagesmantis/Layer 12
+  rotate: true
+  xy: 126, 19
+  size: 51, 91
+  orig: 51, 91
+  offset: 0, 0
+  index: -1
+imagesmantis/Layer 19
+  rotate: false
+  xy: 140, 72
+  size: 103, 246
+  orig: 103, 246
+  offset: 0, 0
+  index: -1
+imagesmantis/Layer 2
+  rotate: false
+  xy: 245, 72
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+imagesmantis/Layer 3
+  rotate: true
+  xy: 271, 293
+  size: 157, 179
+  orig: 157, 179
+  offset: 0, 0
+  index: -1
+imagesmantis/Layer 5
+  rotate: false
+  xy: 2, 320
+  size: 267, 130
+  orig: 267, 130
+  offset: 0, 0
+  index: -1
+imagesmantis/Layer 6
+  rotate: false
+  xy: 347, 118
+  size: 60, 173
+  orig: 60, 173
+  offset: 0, 0
+  index: -1
+imagesmantis/Layer 7
+  rotate: false
+  xy: 219, 17
+  size: 84, 53
+  orig: 84, 53
+  offset: 0, 0
+  index: -1
+imagesmantis/Layer 8
+  rotate: true
+  xy: 346, 40
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+imagesmantis/Layer 9 copy
+  rotate: false
+  xy: 245, 150
+  size: 100, 141
+  orig: 100, 141
+  offset: 0, 0
+  index: -1

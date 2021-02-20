@@ -1,0 +1,146 @@
+
+gecko.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 57, 166
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 142, 30
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Layer 17 copy
+  rotate: false
+  xy: 142, 61
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 2, 124
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 142, 2
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Layer 19 copy
+  rotate: false
+  xy: 167, 2
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: true
+  xy: 138, 130
+  size: 84, 34
+  orig: 84, 34
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 108, 79
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Layer 21 copy
+  rotate: false
+  xy: 108, 42
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 57, 64
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+imagesgecko2/Cut - Char-Map2 (3)
+  rotate: false
+  xy: 57, 12
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+imagesgecko2/Layer 16
+  rotate: false
+  xy: 57, 116
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+imagesgecko2/Layer 17
+  rotate: false
+  xy: 176, 67
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+imagesgecko2/Layer 17 copy
+  rotate: false
+  xy: 176, 98
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+imagesgecko2/Layer 19
+  rotate: false
+  xy: 2, 4
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+imagesgecko2/Layer 21
+  rotate: false
+  xy: 108, 5
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+imagesgecko2/Layer 55
+  rotate: false
+  xy: 2, 32
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+imagesgecko2/Layer 56
+  rotate: true
+  xy: 174, 130
+  size: 84, 34
+  orig: 84, 34
+  offset: 0, 0
+  index: -1
+imagesgecko2/Layer 59
+  rotate: false
+  xy: 27, 4
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+imagesgecko2/Layer 60
+  rotate: false
+  xy: 142, 93
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1

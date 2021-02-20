@@ -1,0 +1,76 @@
+
+Huou.png
+size: 760,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 683
+  rotate: true
+  xy: 439, 105
+  size: 310, 264
+  orig: 310, 264
+  offset: 0, 0
+  index: -1
+Layer 684
+  rotate: false
+  xy: 653, 21
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+Layer 685
+  rotate: false
+  xy: 2, 189
+  size: 223, 568
+  orig: 223, 568
+  offset: 0, 0
+  index: -1
+Layer 687 copy
+  rotate: true
+  xy: 2, 24
+  size: 163, 205
+  orig: 163, 205
+  offset: 0, 0
+  index: -1
+Layer 689 copy
+  rotate: true
+  xy: 439, 2
+  size: 101, 212
+  orig: 101, 212
+  offset: 0, 0
+  index: -1
+Layer 690 copy
+  rotate: true
+  xy: 209, 10
+  size: 66, 139
+  orig: 66, 139
+  offset: 0, 0
+  index: -1
+Layer 691
+  rotate: false
+  xy: 525, 465
+  size: 223, 292
+  orig: 223, 292
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 227, 417
+  size: 340, 296
+  orig: 340, 296
+  offset: 0, 0
+  index: -1
+copy
+  rotate: true
+  xy: 209, 78
+  size: 109, 228
+  orig: 109, 228
+  offset: 0, 0
+  index: -1
+luoi
+  rotate: true
+  xy: 350, 24
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1

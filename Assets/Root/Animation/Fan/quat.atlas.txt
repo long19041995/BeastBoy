@@ -1,0 +1,27 @@
+
+quat.png
+size: 356,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wind-Effect
+  rotate: false
+  xy: 2, 287
+  size: 264, 66
+  orig: 264, 66
+  offset: 0, 0
+  index: -1
+option/quat
+  rotate: false
+  xy: 154, 32
+  size: 199, 253
+  orig: 199, 253
+  offset: 0, 0
+  index: -1
+option/trong
+  rotate: false
+  xy: 2, 135
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+rabit.png
+size: 324,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 16
+  rotate: false
+  xy: 235, 92
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+Layer 510
+  rotate: true
+  xy: 224, 222
+  size: 100, 89
+  orig: 100, 89
+  offset: 0, 0
+  index: -1
+Layer 511
+  rotate: true
+  xy: 2, 10
+  size: 38, 115
+  orig: 38, 115
+  offset: 0, 0
+  index: -1
+Layer 512
+  rotate: true
+  xy: 144, 51
+  size: 38, 86
+  orig: 38, 86
+  offset: 0, 0
+  index: -1
+Layer 513
+  rotate: true
+  xy: 246, 6
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Layer 514
+  rotate: false
+  xy: 2, 50
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+Layer 515 copy
+  rotate: true
+  xy: 246, 34
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+Layer 515 copy 2
+  rotate: true
+  xy: 144, 4
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+Layer 516 copy
+  rotate: false
+  xy: 235, 152
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+Layer 516 copy 2
+  rotate: false
+  xy: 235, 152
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+Layer 616
+  rotate: false
+  xy: 119, 30
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+rabit2/Layer 510 copy
+  rotate: true
+  xy: 144, 91
+  size: 100, 89
+  orig: 100, 89
+  offset: 0, 0
+  index: -1
+rabit2/Layer 513 copy
+  rotate: false
+  xy: 211, 11
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+rabit2/Layer 615
+  rotate: true
+  xy: 294, 6
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 2, 193
+  size: 220, 129
+  orig: 220, 129
+  offset: 0, 0
+  index: -1
+water
+  rotate: true
+  xy: 281, 2
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1

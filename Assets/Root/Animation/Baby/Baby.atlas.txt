@@ -1,0 +1,125 @@
+
+Baby.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 2
+  size: 130, 145
+  orig: 130, 145
+  offset: 0, 0
+  index: -1
+Layer 254
+  rotate: false
+  xy: 178, 177
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+Layer 255
+  rotate: true
+  xy: 149, 4
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+Layer 256
+  rotate: true
+  xy: 263, 237
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+Layer 48
+  rotate: false
+  xy: 2, 134
+  size: 174, 178
+  orig: 174, 178
+  offset: 0, 0
+  index: -1
+Layer 49
+  rotate: false
+  xy: 254, 35
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Layer 51
+  rotate: false
+  xy: 209, 74
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+Layer 52
+  rotate: true
+  xy: 178, 131
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+Layer 53
+  rotate: true
+  xy: 242, 132
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+Layer 54
+  rotate: false
+  xy: 149, 77
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+Layer 55
+  rotate: false
+  xy: 196, 26
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+Layer 55_l
+  rotate: true
+  xy: 251, 177
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+Layer 56
+  rotate: false
+  xy: 149, 17
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+Layer 56_l
+  rotate: false
+  xy: 254, 72
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 178, 235
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 263, 249
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+runs
+  rotate: false
+  xy: 279, 56
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1

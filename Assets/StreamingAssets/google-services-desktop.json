@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325604504327",
+    "firebase_url": "https://beast-boy-escape.firebaseio.com",
+    "project_id": "beast-boy-escape",
+    "storage_bucket": "beast-boy-escape.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325604504327:android:700371b3e7e8f7e44b0ba2",
+        "android_client_info": {
+          "package_name": "com.ohzegame.beastboyescape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325604504327-iupkig2j3errfq3rjrof4tsm7gvpng84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRLR8g5-B2gMeyF6uBBfl4ifLWjLMjFlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325604504327-iupkig2j3errfq3rjrof4tsm7gvpng84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
